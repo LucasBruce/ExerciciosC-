@@ -1,0 +1,12 @@
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp3.0\ConsoleAppTeste.exe
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp3.0\ConsoleAppTeste.deps.json
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp3.0\ConsoleAppTeste.runtimeconfig.json
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp3.0\ConsoleAppTeste.runtimeconfig.dev.json
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp3.0\ConsoleAppTeste.dll
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp3.0\ConsoleAppTeste.pdb
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp3.0\ConsoleAppTeste.csproj.AssemblyReference.cache
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp3.0\ConsoleAppTeste.csproj.CoreCompileInputs.cache
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp3.0\ConsoleAppTeste.AssemblyInfoInputs.cache
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp3.0\ConsoleAppTeste.AssemblyInfo.cs
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp3.0\ConsoleAppTeste.dll
+C:\Users\lmatheus\source\repos\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp3.0\ConsoleAppTeste.pdb
